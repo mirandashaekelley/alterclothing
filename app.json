@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "alterclothing",
+    "slug": "alterclothing",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "alterclothing"
+}
